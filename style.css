@@ -1,0 +1,66 @@
+body{
+    background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(./bb5.jpg);
+   
+    
+
+    
+   
+}
+.main{
+    background-color: rgba(0,0,0,0.7);
+   
+    display: flex;
+    height: 500px;
+    width: 350px;
+    margin: auto;
+    
+   
+}
+
+.or{
+    text-align: center;
+}
+#fn{
+    
+    color:black;
+    margin-top: 10px;
+}
+#fn{
+    height: 30px;
+    width: 345px;
+    border: black;
+
+}
+.ps a{
+   color: white;
+   text-decoration: none;
+   margin-top: 10px;
+}
+#btn{
+    background: red;
+    height: 50px;
+    width: 350px;
+    margin-top: 10px;
+   
+    
+}
+#btn:hover{
+    opacity: 0.1;
+}
+
+#code{
+    height: 30px;
+    width: 340px;
+    text-align: center;
+    margin-top: 10px;
+}
+.register-link a{
+    color: white;
+    text-decoration: none;
+}
+.register-link {
+    color: white;
+}
+.learn {
+    color: grey;
+}
